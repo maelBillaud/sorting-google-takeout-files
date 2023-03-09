@@ -13,7 +13,7 @@ Ce programme prend en saisi utilisateur le fichier qui contient tous les fichier
 
 Il va chercher dans tous les sous-dossiers de celui contenant les fichiers à déplacer, chaque dossier contenant des médias (.jpg, .jpeg, .png, .mp4).
 
-**Note : Google takeout nomme les dossiers contenant des images avec un nom contenant l'année de création du média.**
+_Note : Google takeout nomme les dossiers contenant des images avec un nom contenant l'année de création du média._
 
 Pour chacun de ces dossiers, il va : 
 - Supprimer les métadatas extraites par Google.
